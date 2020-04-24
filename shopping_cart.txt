@@ -1,1 +1,1 @@
-{}
+{"npujari": {"cliff": 1, "3musketeers": 0, "snickers": 1, "red_bull": 0, "lacroix": 0}}
